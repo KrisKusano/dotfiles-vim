@@ -49,3 +49,6 @@
 [submodule "bundle/colors-soloarized"]
 	path = bundle/colors-soloarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/airline"]
+	path = bundle/airline
+	url = https://github.com/bling/vim-airline.git
